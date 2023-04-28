@@ -6,7 +6,8 @@
 
 ```
 cd projeto-a
-npm start
+npm i
+npm run dev
 ```
 
 O projeto será inicializado na URL `http://localhost:3000/`.
@@ -40,6 +41,7 @@ Calcula todas as folhas cadastradas (que ainda não foram calculadas) e registra
 
 ```
 cd projeto-b
+npm i
 npm start
 ```
 
